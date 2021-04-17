@@ -1,4 +1,4 @@
-# Bubble Sorting 
+# Bubble Sort
 ## Principle in action 
 <img src="resources/bubble.gif" alt="bubble" width="800"/>
 
