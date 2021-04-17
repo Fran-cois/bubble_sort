@@ -1,5 +1,6 @@
 # Bubble Sorting 
 ## Principle in action 
-![Bubble sorting gif](resources/bubble.gif)
+<img src="resources/bubble.gif" alt="bubble" width="800"/>
+
 ## Complexity of the algorithm 
-<img src="resources/bubble.gif" alt="bubble" width="600"/>
+<img src="resources/complexity.gif" alt="bubble" width="800"/>
